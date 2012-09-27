@@ -1,0 +1,17 @@
+{
+  "name": "projectname",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "2.5.11",
+    "ejs": ">= 0.0.1",
+    "mongoose": "3.0.1"
+  },
+  "subdomain": "projectname",
+  "scripts": {
+    "start": "app.js"
+  },
+  "engines": {
+    "node": ">= 0.6.x"
+  }
+}
